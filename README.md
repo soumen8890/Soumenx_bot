@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/b5aab72226185cfcdf309.jpg" alt="𝗦𝗢𝗨𝗠𝗘𝗡_𝗯𝗼𝘁 Logo">
+  <img src="https://graph.org/file/b5aab72226185cfcdf309.jpg" alt=" 𝗦𝗢𝗨𝗠𝗘𝗡_𝗯𝗼𝘁 Logo">
 </p>
 <h1 align="center">
   𝐂𝐢𝐧𝐞𝐦𝐚𝐚_𝐛𝐨𝐱𝐨𝐟𝐟𝐢𝐜𝐞_𝐁𝐨𝐭
@@ -162,8 +162,8 @@ python3 bot.py
 <hr>
 
 ## Credits 
-* [![𝘴𝘰𝘶𝘮𝘦𝘯 𝘢𝘢𝘯𝘵𝘳𝘢](https://img.shields.io/static/v1?label=𝘀𝗼𝘂𝗺𝗲𝗻 𝘀𝗮𝗻𝘁𝗿𝗮&message=devs&color=critical)](https://telegram.dog/)
-* [![𝘴𝘰𝘶𝘮𝘦𝘯 𝘴𝘢𝘯𝘵𝘳𝘢](https://img.shields.io/static/v1?label=𝘀𝗼𝘂𝗺𝗲𝗻 𝘀𝗮𝗻𝘁𝗿𝗮&message=Github&color=critical)](https://github.com/Joelkb)
+* [![𝘴𝘰𝘶𝘮𝘦𝘯 𝘢𝘢𝘯𝘵𝘳𝘢](https://img.shields.io/static/v1?label=soumen-santra&message=devs&color=critical)](https://telegram.dog/)
+* [![𝘴𝘰𝘶𝘮𝘦𝘯 𝘴𝘢𝘯𝘵𝘳𝘢](https://img.shields.io/static/v1?label=𝘀𝗼𝘂𝗺𝗲𝗻-𝘀𝗮𝗻𝘁𝗿𝗮&message=Github&color=critical)](https://github.com/Joelkb)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/SOUMEN8890)
 
 ## Thanks to 
