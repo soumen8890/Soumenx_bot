@@ -13,7 +13,7 @@ MMʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Shazam_bot_support'>⚜️ DARK DEVIL ⚜️</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://telegram.me/soumen8890'>⚜️ SOUMEN SANTRA ⚜️</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ Private ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 - For Premium - <a href="https://t.me/DwayneJohnsonl">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/DwayneJohnsonl">Dark Devil</a></b>"""
+- <a href="https://t.me/DwayneJohnsonl">sᴏᴜᴍᴇɴ sᴀɴᴛʀᴀ</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -167,9 +167,9 @@ Nᴀᴍᴇ - {}"""
 
 ➥ᴅᴏɴ'ᴛ ᴡᴀɪᴛ ᴀɴʏ ʟᴏɴɢᴇʀ ᴛᴏ ꜱᴛᴀʀᴛ ᴇᴀʀɴɪɴɢ ᴍᴏɴᴇʏ ғʀᴏᴍ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ. ᴀᴅᴅ ᴏᴜʀ ʙᴏᴛ ᴛᴏᴅᴀʏ ᴀɴᴅ ꜱᴛᴀʀᴛ ᴍᴀᴋɪɴɢ ᴍᴏɴᴇʏ.
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝐁𝐞𝐬𝐭𝐢𝐞𝐬⋆⃝亗⋆ͥ⋆ͣ⋆ͫ𖣔ꠋꠋ🇩α𝗿𝗸 🇩єνιℓ☯️ꙮ๊๊
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝙎𝙊𝙐𝙈𝙀𝙉 𝘽𝙊𝙏
 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @DwayneJohnsonl
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Soumen8890
 
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/DwayneJohnsonl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
@@ -216,12 +216,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 OFFICIAL CHANNEL: @cinemaa_boxoffice 
+🔅 OFFICIAL CHANNEL: ABHI NEHI HAI 
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @Shazam_bot_support
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @Cinemaa_boxoffice_support
+▫️ ᴄʜᴀɴɴᴇʟ : NEHI HAI
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : KOI SUPPORT NEHI KARTA
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
