@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/b5aab72226185cfcdf309.jpg" alt="cinemaa_boxoffice_bot Logo">
+  <img src="https://graph.org/file/b5aab72226185cfcdf309.jpg" alt="𝗦𝗢𝗨𝗠𝗘𝗡_𝗯𝗼𝘁 Logo">
 </p>
 <h1 align="center">
   𝐂𝐢𝐧𝐞𝐦𝐚𝐚_𝐛𝐨𝐱𝐨𝐟𝐟𝐢𝐜𝐞_𝐁𝐨𝐭
@@ -162,8 +162,8 @@ python3 bot.py
 <hr>
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=soumen santra&message=devs&color=critical)](https://telegram.dog/)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
+* [![𝘴𝘰𝘶𝘮𝘦𝘯 𝘢𝘢𝘯𝘵𝘳𝘢](https://img.shields.io/static/v1?label=𝘀𝗼𝘂𝗺𝗲𝗻 𝘀𝗮𝗻𝘁𝗿𝗮&message=devs&color=critical)](https://telegram.dog/)
+* [![𝘴𝘰𝘶𝘮𝘦𝘯 𝘴𝘢𝘯𝘵𝘳𝘢](https://img.shields.io/static/v1?label=𝘀𝗼𝘂𝗺𝗲𝗻 𝘀𝗮𝗻𝘁𝗿𝗮&message=Github&color=critical)](https://github.com/Joelkb)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/SOUMEN8890)
 
 ## Thanks to 
@@ -177,7 +177,7 @@ python3 bot.py
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/soumen8890)
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
