@@ -216,12 +216,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 OFFICIAL CHANNEL: ABHI NEHI HAI 
+🔅 OFFICIAL CHANNEL: https://telegram.me/suport8890
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : NEHI HAI
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : KOI SUPPORT NEHI KARTA
+▫️ ᴄʜᴀɴɴᴇʟ : https://telegram.me/+0IrjZkEftw0xYjc9
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://telegram.me/suportgroup666
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
