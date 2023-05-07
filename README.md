@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/b5aab72226185cfcdf309.jpg" alt="Soumenbot Logo">
+  <img src="https://telegra.ph/file/579d9cec0435b6d19df67.jpg" alt="Soumenbot Logo">
 </p>
 <h1 align="center">
   𝘚𝘰𝘶𝘮𝘦𝘯_𝘣𝘰𝘵
