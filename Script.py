@@ -216,12 +216,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 OFFICIAL CHANNEL: ABHI NEHI HAI 
+🔅 OFFICIAL CHANNEL: https://t.me/hdidjddkdd
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : NEHI HAI
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : KOI SUPPORT NEHI KARTA
+▫️ ᴄʜᴀɴɴᴇʟ : https://t.me/kkkkkk68904
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/suplort778
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
